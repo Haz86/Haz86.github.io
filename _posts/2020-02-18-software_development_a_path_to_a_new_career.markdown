@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Software Development: A path to a new Career"
-date:       2020-02-19 02:49:49 +0000
+date:       2020-02-18 21:49:50 -0500
 permalink:  software_development_a_path_to_a_new_career
 ---
 
